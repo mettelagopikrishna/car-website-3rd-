@@ -18,3 +18,4 @@ Run from any static server or simple Node script:
 node server.js
 ```
 Open [http://localhost:8080](http://localhost:8080) in your browser.
+
