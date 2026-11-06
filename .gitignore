@@ -1,0 +1,26 @@
+# Archives & Raw frame dumps
+*.zip
+*.zip.zip
+clip1frame.zip/
+clip2frame.zip/
+clip3frame.zip/
+flowclipframe.zip/
+
+# Raw root PNG files (already processed into assets/cars/)
+car-e1.png
+car-e2.png
+e1.png
+e2.png
+k1.png
+k2.png
+k3.png
+k4.png
+car image.png
+test_probe.txt
+
+# Node & OS & IDE
+node_modules/
+npm-debug.log
+.vscode/
+.DS_Store
+Thumbs.db
